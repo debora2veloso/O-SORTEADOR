@@ -1,0 +1,6 @@
+C:\Users\Utilizador\source\repos\O Sorteador\oSorteador\bin\Debug\ExemploConsole-SorteioNumerosNaoRepetidos.exe.config
+C:\Users\Utilizador\source\repos\O Sorteador\oSorteador\bin\Debug\ExemploConsole-SorteioNumerosNaoRepetidos.exe
+C:\Users\Utilizador\source\repos\O Sorteador\oSorteador\bin\Debug\ExemploConsole-SorteioNumerosNaoRepetidos.pdb
+C:\Users\Utilizador\source\repos\O Sorteador\oSorteador\obj\Debug\o sorteador.csprojAssemblyReference.cache
+C:\Users\Utilizador\source\repos\O Sorteador\oSorteador\obj\Debug\ExemploConsole-SorteioNumerosNaoRepetidos.exe
+C:\Users\Utilizador\source\repos\O Sorteador\oSorteador\obj\Debug\ExemploConsole-SorteioNumerosNaoRepetidos.pdb

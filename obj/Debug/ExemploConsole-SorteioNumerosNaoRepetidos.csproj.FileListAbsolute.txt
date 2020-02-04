@@ -1,0 +1,6 @@
+C:\Users\André\Documents\GitHub\ExemploConsole-SorteioNumerosNaoRepetidos\ExemploConsole-SorteioNumerosNaoRepetidos\bin\Debug\ExemploConsole-SorteioNumerosNaoRepetidos.exe.config
+C:\Users\André\Documents\GitHub\ExemploConsole-SorteioNumerosNaoRepetidos\ExemploConsole-SorteioNumerosNaoRepetidos\obj\Debug\ExemploConsole-SorteioNumerosNaoRepetidos.csprojResolveAssemblyReference.cache
+C:\Users\André\Documents\GitHub\ExemploConsole-SorteioNumerosNaoRepetidos\ExemploConsole-SorteioNumerosNaoRepetidos\bin\Debug\ExemploConsole-SorteioNumerosNaoRepetidos.exe
+C:\Users\André\Documents\GitHub\ExemploConsole-SorteioNumerosNaoRepetidos\ExemploConsole-SorteioNumerosNaoRepetidos\bin\Debug\ExemploConsole-SorteioNumerosNaoRepetidos.pdb
+C:\Users\André\Documents\GitHub\ExemploConsole-SorteioNumerosNaoRepetidos\ExemploConsole-SorteioNumerosNaoRepetidos\obj\Debug\ExemploConsole-SorteioNumerosNaoRepetidos.exe
+C:\Users\André\Documents\GitHub\ExemploConsole-SorteioNumerosNaoRepetidos\ExemploConsole-SorteioNumerosNaoRepetidos\obj\Debug\ExemploConsole-SorteioNumerosNaoRepetidos.pdb
